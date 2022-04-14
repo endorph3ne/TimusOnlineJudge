@@ -1,0 +1,6 @@
+D:\Program\TimusOnlineJudge\TimusOnlineJudge\bin\Debug\TimusOnlineJudge.exe.config
+D:\Program\TimusOnlineJudge\TimusOnlineJudge\bin\Debug\TimusOnlineJudge.exe
+D:\Program\TimusOnlineJudge\TimusOnlineJudge\bin\Debug\TimusOnlineJudge.pdb
+D:\Program\TimusOnlineJudge\TimusOnlineJudge\obj\Debug\TimusOnlineJudge.csproj.CoreCompileInputs.cache
+D:\Program\TimusOnlineJudge\TimusOnlineJudge\obj\Debug\TimusOnlineJudge.exe
+D:\Program\TimusOnlineJudge\TimusOnlineJudge\obj\Debug\TimusOnlineJudge.pdb

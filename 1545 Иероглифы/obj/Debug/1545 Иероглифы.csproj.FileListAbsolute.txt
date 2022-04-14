@@ -1,0 +1,6 @@
+D:\Program\TimusOnlineJudge\1545 Иероглифы\bin\Debug\1545 Иероглифы.exe.config
+D:\Program\TimusOnlineJudge\1545 Иероглифы\bin\Debug\1545 Иероглифы.exe
+D:\Program\TimusOnlineJudge\1545 Иероглифы\bin\Debug\1545 Иероглифы.pdb
+D:\Program\TimusOnlineJudge\1545 Иероглифы\obj\Debug\1545 Иероглифы.csproj.CoreCompileInputs.cache
+D:\Program\TimusOnlineJudge\1545 Иероглифы\obj\Debug\1545 Иероглифы.exe
+D:\Program\TimusOnlineJudge\1545 Иероглифы\obj\Debug\1545 Иероглифы.pdb

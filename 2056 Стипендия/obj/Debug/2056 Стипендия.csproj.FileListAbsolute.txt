@@ -1,0 +1,7 @@
+D:\Program\TimusOnlineJudge\2056 Стипендия\bin\Debug\2056 Стипендия.exe.config
+D:\Program\TimusOnlineJudge\2056 Стипендия\bin\Debug\2056 Стипендия.exe
+D:\Program\TimusOnlineJudge\2056 Стипендия\bin\Debug\2056 Стипендия.pdb
+D:\Program\TimusOnlineJudge\2056 Стипендия\obj\Debug\2056 Стипендия.csprojAssemblyReference.cache
+D:\Program\TimusOnlineJudge\2056 Стипендия\obj\Debug\2056 Стипендия.csproj.CoreCompileInputs.cache
+D:\Program\TimusOnlineJudge\2056 Стипендия\obj\Debug\2056 Стипендия.exe
+D:\Program\TimusOnlineJudge\2056 Стипендия\obj\Debug\2056 Стипендия.pdb

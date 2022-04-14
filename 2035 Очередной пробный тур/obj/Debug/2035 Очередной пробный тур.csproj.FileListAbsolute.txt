@@ -1,0 +1,7 @@
+D:\Program\TimusOnlineJudge\2035 Очередной пробный тур\bin\Debug\2035 Очередной пробный тур.exe.config
+D:\Program\TimusOnlineJudge\2035 Очередной пробный тур\bin\Debug\2035 Очередной пробный тур.exe
+D:\Program\TimusOnlineJudge\2035 Очередной пробный тур\bin\Debug\2035 Очередной пробный тур.pdb
+D:\Program\TimusOnlineJudge\2035 Очередной пробный тур\obj\Debug\2035 Очередной пробный тур.csprojAssemblyReference.cache
+D:\Program\TimusOnlineJudge\2035 Очередной пробный тур\obj\Debug\2035 Очередной пробный тур.csproj.CoreCompileInputs.cache
+D:\Program\TimusOnlineJudge\2035 Очередной пробный тур\obj\Debug\2035 Очередной пробный тур.exe
+D:\Program\TimusOnlineJudge\2035 Очередной пробный тур\obj\Debug\2035 Очередной пробный тур.pdb

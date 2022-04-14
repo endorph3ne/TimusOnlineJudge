@@ -1,0 +1,7 @@
+D:\Program\TimusOnlineJudge\1607 Такси\bin\Debug\1607 Такси.exe.config
+D:\Program\TimusOnlineJudge\1607 Такси\bin\Debug\1607 Такси.exe
+D:\Program\TimusOnlineJudge\1607 Такси\bin\Debug\1607 Такси.pdb
+D:\Program\TimusOnlineJudge\1607 Такси\obj\Debug\1607 Такси.csproj.CoreCompileInputs.cache
+D:\Program\TimusOnlineJudge\1607 Такси\obj\Debug\1607 Такси.exe
+D:\Program\TimusOnlineJudge\1607 Такси\obj\Debug\1607 Такси.pdb
+D:\Program\TimusOnlineJudge\1607 Такси\obj\Debug\1607 Такси.csprojAssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\Program\TimusOnlineJudge\1881 Длинное условие задачи\bin\Debug\1881 Длинное условие задачи.exe.config
+D:\Program\TimusOnlineJudge\1881 Длинное условие задачи\bin\Debug\1881 Длинное условие задачи.exe
+D:\Program\TimusOnlineJudge\1881 Длинное условие задачи\bin\Debug\1881 Длинное условие задачи.pdb
+D:\Program\TimusOnlineJudge\1881 Длинное условие задачи\obj\Debug\1881 Длинное условие задачи.csproj.CoreCompileInputs.cache
+D:\Program\TimusOnlineJudge\1881 Длинное условие задачи\obj\Debug\1881 Длинное условие задачи.exe
+D:\Program\TimusOnlineJudge\1881 Длинное условие задачи\obj\Debug\1881 Длинное условие задачи.pdb
+D:\Program\TimusOnlineJudge\1881 Длинное условие задачи\obj\Debug\1881 Длинное условие задачи.csprojAssemblyReference.cache

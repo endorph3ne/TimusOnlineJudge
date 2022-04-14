@@ -1,0 +1,6 @@
+D:\Program\TimusOnlineJudge\1196 Экзамен по истории\bin\Debug\1196 Экзамен по истории.exe.config
+D:\Program\TimusOnlineJudge\1196 Экзамен по истории\bin\Debug\1196 Экзамен по истории.exe
+D:\Program\TimusOnlineJudge\1196 Экзамен по истории\bin\Debug\1196 Экзамен по истории.pdb
+D:\Program\TimusOnlineJudge\1196 Экзамен по истории\obj\Debug\1196 Экзамен по истории.csproj.CoreCompileInputs.cache
+D:\Program\TimusOnlineJudge\1196 Экзамен по истории\obj\Debug\1196 Экзамен по истории.exe
+D:\Program\TimusOnlineJudge\1196 Экзамен по истории\obj\Debug\1196 Экзамен по истории.pdb

@@ -1,0 +1,7 @@
+D:\Program\TimusOnlineJudge\1496 Спамер\bin\Debug\1496 Спамер.exe.config
+D:\Program\TimusOnlineJudge\1496 Спамер\bin\Debug\1496 Спамер.exe
+D:\Program\TimusOnlineJudge\1496 Спамер\bin\Debug\1496 Спамер.pdb
+D:\Program\TimusOnlineJudge\1496 Спамер\obj\Debug\1496 Спамер.csproj.CoreCompileInputs.cache
+D:\Program\TimusOnlineJudge\1496 Спамер\obj\Debug\1496 Спамер.exe
+D:\Program\TimusOnlineJudge\1496 Спамер\obj\Debug\1496 Спамер.pdb
+D:\Program\TimusOnlineJudge\1496 Спамер\obj\Debug\1496 Спамер.csprojAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Program\TimusOnlineJudge\1925 О заслуге британских ученых\bin\Debug\1925 О заслуге британских ученых.exe.config
+D:\Program\TimusOnlineJudge\1925 О заслуге британских ученых\bin\Debug\1925 О заслуге британских ученых.exe
+D:\Program\TimusOnlineJudge\1925 О заслуге британских ученых\bin\Debug\1925 О заслуге британских ученых.pdb
+D:\Program\TimusOnlineJudge\1925 О заслуге британских ученых\obj\Debug\1925 О заслуге британских ученых.csproj.CoreCompileInputs.cache
+D:\Program\TimusOnlineJudge\1925 О заслуге британских ученых\obj\Debug\1925 О заслуге британских ученых.exe
+D:\Program\TimusOnlineJudge\1925 О заслуге британских ученых\obj\Debug\1925 О заслуге британских ученых.pdb
